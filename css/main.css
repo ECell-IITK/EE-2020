@@ -3062,7 +3062,9 @@ element.style {
     font: 23px/30px "montserrat-bold", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    color: #eb4101;
+	color:#73dfdf;
+	font-size: 3rem;
+	text-align: center;
     margin-bottom: 30px;
     margin-top: 18px;
 }
@@ -3086,9 +3088,11 @@ element.style {
     transition: all 0.5s ease-in-out;
 }
 .obey {
+	color: rgba(203, 214, 223, 0.952);
+	font-size: 1.2rem;
+	text-align: center;
     font: 23px/36px "merriweather-regular", serif;
     width: 95%;
-		color:white;
 }
 
 .section-head:hover h1+hr {
@@ -3189,7 +3193,7 @@ element.style {
     text-align: center;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
-    color: #e4b101;
+    color: #6b94bb;
 }
 
 #speakers .slider-wrapper>div {
